@@ -6400,3 +6400,5 @@ IP-CIDR,192.168.0.0/16,DIRECT
 GEOIP,cn,DIRECT
 
 FINAL,PROXY
+
+##back cn for pharos
